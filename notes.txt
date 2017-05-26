@@ -1,0 +1,1 @@
+"test": "istanbul cover _mocha $(find ./tests -name \"*.js\" -not -path \"./node_modules/*\") "
