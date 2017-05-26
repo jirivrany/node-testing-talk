@@ -4,7 +4,7 @@
   "description": "Demo for talk about testing in NodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "_mocha tests/"
+    "test": "_mocha test/"
   },
   "author": "Jiri Vrany <jiri.vrany@tul.cz>",
   "license": "MIT",
