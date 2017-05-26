@@ -11,6 +11,8 @@ let mapping = {
 };
 
 module.exports.translate = function translate(phrase, lang) {
+
+    
     let phraseMap = mapping[phrase];
     
     if (!phraseMap) {
