@@ -6,8 +6,8 @@ Examples of NodeJS unit and integration tests with Mocha, Chai, Sinon and  Istan
 
 Forked examples from:
 
-[https://github.com/jakerella/node-unit-tests](https://github.com/jakerella/node-unit-tests)
-[https://github.com/RisingStack/nodehero-testing](https://github.com/RisingStack/nodehero-testing)
+* [https://github.com/jakerella/node-unit-tests](https://github.com/jakerella/node-unit-tests)
+* [https://github.com/RisingStack/nodehero-testing](https://github.com/RisingStack/nodehero-testing)
 
 Usage:
 
