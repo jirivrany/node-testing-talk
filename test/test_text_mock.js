@@ -2,7 +2,6 @@ const fs = require('fs');
 const assert = require('chai').assert;
 const sinon = require('sinon');
 const chai = require('chai');
-const sinonChai = require('sinon-chai');
 const expect = require('chai').expect;
 const i18n = require('../app/i18n');
 
@@ -11,10 +10,6 @@ const phrases = '["hello","beer","I like beer"]';
 describe('text module with mock', function() {
     
     
-    
-    before(function () {
-      chai.use(sinonChai)
-    })
 
     beforeEach(function () {
       this.sandbox = sinon.sandbox.create()
